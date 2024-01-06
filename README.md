@@ -14,7 +14,7 @@ A simple login page created using HTML and styled with CSS. The design is clean 
 
 ## Preview
 
-![Login Page](https://github.com/Umar-Ashraf09/Login-Page/assets/92431008/be354bae-b340-4df6-9569-10447bc74e10)
+![Login Page](https://github.com/Umar-Ashraf09/Login-Page/assets/92431008/a5f4616e-d5b3-4d73-9690-f01bdc1d9845)
 
 
 ## Technologies Used
