@@ -1,7 +1,6 @@
-﻿# Login-Page
-https://umar-ashraf09.github.io/Login-Page/
+﻿# Login Page
 
-# Login Page
+[Login Page](https://umar-ashraf09.github.io/Login-Page/)
 
 A simple login page created using HTML and styled with CSS. The design is clean and user-friendly.
 
@@ -12,11 +11,11 @@ A simple login page created using HTML and styled with CSS. The design is clean 
 - [Form Elements](#form-elements)
 - [Design and Styling](#design-and-styling)
 - [Usage](#usage)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Login Page](https://github.com/Umar-Ashraf09/Login-Page/assets/92431008/be354bae-b340-4df6-9569-10447bc74e10)
+
 
 ## Technologies Used
 
@@ -35,11 +34,6 @@ The login form features a pleasing color scheme and a simple layout. The input f
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/login-page.git`
-2. Open the `index.html` file in your web browser.
+1. Open the [Login Page](https://umar-ashraf09.github.io/Login-Page/) web page.
 
 Feel free to modify the HTML and CSS to suit your project or application requirements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
